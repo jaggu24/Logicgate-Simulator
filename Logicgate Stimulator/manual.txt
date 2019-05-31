@@ -1,0 +1,28 @@
+Welcome to the logic gate stimulator
+You can create a logic gate and test it by giving inputs 
+You can create any kind of combinational circuits using
+1.And
+2.Or
+3.Not
+4.Nand
+5.Nor
+6.XOR
+7.XNOR
+8.Encoder
+9.Decoder
+10.Multiplexer
+11.Demultiplexer
+->You can test your inputs or generate the truth table for the created gate
+->Before Generating your gate you must draw your gate in a sheet of paper and number the inputs,gates and the
+   output of gates
+->First you need to enter your dummy inputs for the generation of the gate
+->Then choose the gates option to create your desired gate
+->you need to map the inputs to the input of the gate using the input number
+->You can also sgive the output of a previous gate as a input by selecting the old option and specifying the 
+  output number
+->After constructing the gates u can see the desired outputs by choosing the display option 
+  Then specify the output number 
+->you can again check with different inputs or generate a truth table from the input values which you have 
+  specified
+
+ Now you proceed for making the logic gate

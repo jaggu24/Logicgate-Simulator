@@ -1,0 +1,258 @@
+# depslib dependency file v1.0
+1552836329 source:f:\oopspackage\logicgate stimulator\main.cpp
+	<iostream>
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Complex.h"
+
+1552747202 f:\oopspackage\logicgate stimulator\input.h
+
+1552752440 source:f:\oopspackage\logicgate stimulator\input.cpp
+	"Input.h"
+	<iostream>
+
+1552752440 source:f:\oopspackage\logicgate stimulator\output.cpp
+	"Output.h"
+	<iostream>
+
+1552747377 f:\oopspackage\logicgate stimulator\output.h
+
+1552750740 f:\oopspackage\logicgate stimulator\and.h
+	"Input.h"
+	"Output.h"
+
+1552752439 source:f:\oopspackage\logicgate stimulator\and.cpp
+	"And.h"
+	<iostream>
+
+1552752422 source:f:\oopspackage\logicgate stimulator\not.cpp
+	"Not.h"
+
+1552750735 f:\oopspackage\logicgate stimulator\not.h
+	"Input.h"
+	"Output.h"
+
+1552752424 source:f:\oopspackage\logicgate stimulator\or.cpp
+	"Or.h"
+
+1552750737 f:\oopspackage\logicgate stimulator\or.h
+	"Input.h"
+	"Output.h"
+
+1552836272 source:f:\oopspackage\logicgate stimulator\complex.cpp
+	"Complex.h"
+
+1552836227 f:\oopspackage\logicgate stimulator\complex.h
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Input.h"
+	"Output.h"
+
+1552969201 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1552969085 c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\complex.h
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Input.h"
+	"Output.h"
+
+1552840716 c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\and.h
+	"Input.h"
+	"Output.h"
+
+1552840716 c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\input.h
+
+1552840716 c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\output.h
+
+1552840716 c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\or.h
+	"Input.h"
+	"Output.h"
+
+1552840716 c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\not.h
+	"Input.h"
+	"Output.h"
+
+1552840716 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\input.cpp
+	"Input.h"
+	<iostream>
+
+1552840716 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\not.cpp
+	"Not.h"
+
+1552840716 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\or.cpp
+	"Or.h"
+
+1552840716 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\output.cpp
+	"Output.h"
+	<iostream>
+
+1552840716 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\main.cpp
+	<iostream>
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Complex.h"
+
+1552840716 source:c:\users\temp.cs2k16.010\downloads\logicgate-jaggu24\oopspackage\logicgate stimulator\and.cpp
+	"And.h"
+	<iostream>
+
+1552920493 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\input.cpp
+	"Input.h"
+	<iostream>
+
+1552920493 f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\input.h
+
+1552920493 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\not.cpp
+	"Not.h"
+
+1552920493 f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\not.h
+	"Input.h"
+	"Output.h"
+
+1552920493 f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\output.h
+
+1552920493 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\or.cpp
+	"Or.h"
+
+1552920493 f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\or.h
+	"Input.h"
+	"Output.h"
+
+1552920493 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\output.cpp
+	"Output.h"
+	<iostream>
+
+1553090099 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\main.cpp
+	<iostream>
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Complex.h"
+
+1552920493 f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\and.h
+	"Input.h"
+	"Output.h"
+
+1553100342 f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\complex.h
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Input.h"
+	"Output.h"
+
+1552920493 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\and.cpp
+	"And.h"
+	<iostream>
+
+1553101555 source:f:\ooppackage\logicgate-b2\logicgate-jaggu24\oopspackage\logicgate stimulator\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1555464763 source:f:\current\logicgate stimulator\complex.cpp
+	"Complex.h"
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1555461727 f:\current\logicgate stimulator\complex.h
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Input.h"
+	"Output.h"
+	"Graphics.h"
+	"Nand.h"
+	"Nor.h"
+	"Xor.h"
+	"Xnor.h"
+
+1555461727 f:\current\logicgate stimulator\and.h
+	"Input.h"
+	"Output.h"
+	"NMgate.h"
+
+1552920493 f:\current\logicgate stimulator\input.h
+
+1552920493 f:\current\logicgate stimulator\output.h
+
+1555461728 f:\current\logicgate stimulator\or.h
+	"Input.h"
+	"Output.h"
+	"NMgate.h"
+
+1552920493 f:\current\logicgate stimulator\not.h
+	"Input.h"
+	"Output.h"
+
+1555461727 source:f:\current\logicgate stimulator\input.cpp
+	"Input.h"
+	<iostream>
+
+1555461727 source:f:\current\logicgate stimulator\not.cpp
+	"Not.h"
+
+1555461727 source:f:\current\logicgate stimulator\or.cpp
+	"Or.h"
+
+1552920493 source:f:\current\logicgate stimulator\output.cpp
+	"Output.h"
+	<iostream>
+
+1555463270 source:f:\current\logicgate stimulator\main.cpp
+	<iostream>
+	<fstream>
+	"And.h"
+	"Or.h"
+	"Not.h"
+	<stdlib.h>
+	"Complex.h"
+
+1555461727 source:f:\current\logicgate stimulator\and.cpp
+	"And.h"
+	<iostream>
+
+1554122474 f:\current\logicgate stimulator\graphics.h
+
+1554122348 source:f:\current\logicgate stimulator\graphics.cpp
+	"Graphics.h"
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1555461727 f:\current\logicgate stimulator\nmgate.h
+	"Input.h"
+	"Output.h"
+
+1555375218 source:f:\current\logicgate stimulator\nmgate.cpp
+	"NMgate.h"
+
+1555396896 f:\current\logicgate stimulator\nand.h
+	"NMgate.h"
+
+1555396896 f:\current\logicgate stimulator\nor.h
+	"NMgate.h"
+
+1555396896 f:\current\logicgate stimulator\xor.h
+	"NMgate.h"
+
+1555398003 f:\current\logicgate stimulator\xnor.h
+	"NMgate.h"
+
+1555396896 source:f:\current\logicgate stimulator\nand.cpp
+	"Nand.h"
+
+1555396896 source:f:\current\logicgate stimulator\nor.cpp
+	"Nor.h"
+
+1555396896 source:f:\current\logicgate stimulator\xor.cpp
+	"Xor.h"
+
+1555461728 source:f:\current\logicgate stimulator\xnor.cpp
+	"Xnor.h"
+

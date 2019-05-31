@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="And.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="And.h" open="1" top="0" tabpos="3">
+		<Cursor position="163" topLine="0" />
+	</File>
+	<File name="Complex.cpp" open="1" top="1" tabpos="10">
+		<Cursor position="20771" topLine="933" />
+	</File>
+	<File name="Complex.h" open="1" top="0" tabpos="9">
+		<Cursor position="258" topLine="12" />
+	</File>
+	<File name="Input.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="137" topLine="0" />
+	</File>
+	<File name="Input.h" open="1" top="0" tabpos="14">
+		<Cursor position="8" topLine="0" />
+	</File>
+	<File name="NMgate.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="NMgate.h" open="1" top="0" tabpos="11">
+		<Cursor position="245" topLine="0" />
+	</File>
+	<File name="Nand.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Nand.h" open="1" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Nor.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Nor.h" open="1" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Not.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="152" topLine="0" />
+	</File>
+	<File name="Not.h" open="1" top="0" tabpos="8">
+		<Cursor position="111" topLine="0" />
+	</File>
+	<File name="Or.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="161" topLine="0" />
+	</File>
+	<File name="Or.h" open="1" top="0" tabpos="5">
+		<Cursor position="149" topLine="0" />
+	</File>
+	<File name="Output.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Output.h" open="1" top="0" tabpos="2">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="Xnor.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="101" topLine="0" />
+	</File>
+	<File name="Xnor.h" open="1" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Xor.cpp" open="1" top="0" tabpos="23">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Xor.h" open="1" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="211" topLine="4" />
+	</File>
+</CodeBlocks_layout_file>
